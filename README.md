@@ -1,1 +1,1 @@
-Rookie malware analyst and red teamed 
+Rookie malware analyst and red teamer
